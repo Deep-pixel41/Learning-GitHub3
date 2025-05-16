@@ -7,3 +7,5 @@ Creating this repo to understand how we can merge repos and use pull command
 Understanding merging and pull commands
 <br>
 Doing changes in branch1 to understand merging of repos 
+<br>
+This change is for undestanding repo merging using git merge command 
